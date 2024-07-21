@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onaribla.github.io/sitemap
+Sitemap: https://onaribla.github.io/app/sitemap
+Sitemap: https://onaribla.github.io/assets/sitemap
+Sitemap: https://onaribla.github.io/css/sitemap
+Sitemap: https://onaribla.github.io/includes/sitemap
+Sitemap: https://onaribla.github.io/item/sitemap
+Sitemap: https://onaribla.github.io/src/sitemap
